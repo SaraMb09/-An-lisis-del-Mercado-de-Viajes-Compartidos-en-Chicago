@@ -5,3 +5,10 @@ Se analizaron patrones de demanda, concentración del mercado por compañías, z
 El proyecto incluyó consultas SQL, análisis exploratorio en Python, visualización de datos y pruebas de hipótesis estadísticas, con el objetivo de apoyar la toma de decisiones estratégicas y operativas en un contexto real de negocio.
 
 Herramientas: SQL, Python, Pandas, Matplotlib, análisis estadístico
+
+
+Saludos,
+Sara Montesdeoca
+Analista de Datos
+📧 sara.montesdeoca09@gmail.com | 🌐 https://github.com/SaraMb09 
+🔗 www.linkedin.com/in/sara-montesdeoca-data-analyst
